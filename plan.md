@@ -20,7 +20,7 @@ Brief description of what you're building.
       "Check .mcp.json has Playwright configuration",
       "Ensure ralph.sh is executable"
     ],
-    "passes": false
+    "passes": true
   },
   {
     "category": "feature",
